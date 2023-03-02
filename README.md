@@ -20,6 +20,8 @@
 + flex-shrink 
 + align-items
 + flex-wrap
++ transtion
++ animation
 + absolute position
  + relative position
 + Z-index
